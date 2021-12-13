@@ -1,0 +1,28 @@
+.logo
+{
+    font-size:20px;
+    font-family: 'Pacifico', cursive;
+    animation:example;
+    animation-duration: 7s;
+    animation-iteration-count: infinite;
+    height:120px;
+    margin-bottom:20px;
+    background-color:lightcyan;
+    transition: 2s;
+ 
+
+
+    
+}
+.logo:hover{
+    height:160px;
+}
+#mar{
+    color:yellow;
+    font-size:22px;
+    font-weight:bolder;
+    font-family: 'Patua One', cursive;
+}
+body{
+    background:linear-gradient(red 0%,coral 50%,yellow 100%)
+}
